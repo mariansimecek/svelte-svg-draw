@@ -1,5 +1,5 @@
 {
-    "name": "feedback-draw-widget",
+    "name": "svelte-svg-draw",
     "private": true,
     "version": "0.0.0",
     "type": "module",
