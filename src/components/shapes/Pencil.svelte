@@ -10,15 +10,6 @@
     const points = $derived(shape.points.map((p) => `${p.x},${p.y}`).join(' '))
 </script>
 
-<!-- <polyline -->
-<!--     {points} -->
-<!--     x={shape.start.x} -->
-<!--     y={shape.start.y} -->
-<!--     stroke-width="3" -->
-<!--     stroke={shape.color} -->
-<!--     fill="none" -->
-<!-- /> -->
-
 <path
     fill="none"
     transform={`translate(${shape.start.x} ${shape.start.y})`}

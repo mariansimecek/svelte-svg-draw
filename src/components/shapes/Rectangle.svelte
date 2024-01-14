@@ -6,9 +6,6 @@
         shape: Rect
         dragMeStart?: MouseEventHandler<SVGRectElement>
     }>()
-
-
-
 </script>
 
 <rect

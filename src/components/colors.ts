@@ -5,4 +5,4 @@ export const colors = {
     black: { name: 'Black', value: 'black' },
 } satisfies Record<string, { name: string; value: string }>
 
-export type Color =  typeof colors
+export type Color = typeof colors
