@@ -6,6 +6,7 @@
     const tools: { type: Tool; name: string }[] = [
         { type: 'pencil', name: 'Pencil' },
         { type: 'rectangle', name: 'Rectangle' },
+        { type: 'select', name: 'Select' },
     ]
 </script>
 

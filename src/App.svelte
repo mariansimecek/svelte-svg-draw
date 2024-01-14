@@ -1,6 +1,8 @@
 <script>
-    import DrawLayer from "./components/DrawLayer.svelte";
+    import DrawLayerSvg from "./components/DrawLayerSvg.svelte"
+
+
 
 </script>
 
-<DrawLayer/>
+<DrawLayerSvg/>
